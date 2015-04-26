@@ -47,7 +47,7 @@ namespace SportsStore.WebUI.Controllers
             Product product = repository.Products
                 .FirstOrDefault(p => p.ProductId == productId);
 
-            if (product == null)
+            if (product != null)
             {
                 GetCart().RemoveLine(product);
             }
