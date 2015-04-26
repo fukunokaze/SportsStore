@@ -25,9 +25,9 @@ div#categories a {
         background-color: #666;
     }
 
-div#header div.title div.item h3, div.item h4, div.pager a {
+/*div#header div.title div.item h3, div.item h4, div.pager a {
     font: bold 1em "Arial Narrow", "Franklin Gothic Medium", Arial;
-}
+}*/
 
 
 h2 {
@@ -68,6 +68,8 @@ div.item input {
 DIV#header DIV.title {
     font-size: 2em;
     padding: .6em;
+    background-color: #555;
+    color: white;
 }
 
 DIV#content {
@@ -101,6 +103,24 @@ DIV.item {
     DIV.item H4 {
         font-size: 1.1em;
         margin: .4em 0 0 0;
+    }
+
+DIV#cart {
+    float: right;
+    margin: .8em;
+    color: Silver;
+    background-color: #555;
+    padding: .5em .5em .5em .1em;
+}
+
+    DIV#cart a {
+        text-decoration: none;
+        padding: .4em 1em .4em 1em;
+        line-height: 2.1em;
+        margin-left: .5em;
+        background-color: #333;
+        color: white;
+        border: 1px solid black;
     }
 
 DIV.pager {
