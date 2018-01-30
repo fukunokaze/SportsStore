@@ -31,19 +31,4 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://aulimanarga.visualstudio.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = SportsStore.Domain\\SportsStore.Domain.csproj
-		SccProjectName1 = SportsStore.Domain
-		SccLocalPath1 = SportsStore.Domain
-		SccProjectUniqueName2 = SportsStore.UnitTests\\SportsStore.UnitTests.csproj
-		SccProjectName2 = SportsStore.UnitTests
-		SccLocalPath2 = SportsStore.UnitTests
-		SccProjectUniqueName3 = SportsStore.WebUI\\SportsStore.WebUI.csproj
-		SccProjectName3 = SportsStore.WebUI
-		SccLocalPath3 = SportsStore.WebUI
-	EndGlobalSection
 EndGlobal
